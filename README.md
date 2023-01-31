@@ -1,0 +1,3 @@
+- Tableau Prep: Data ETL pipeline created in it (data extraction from transaction data csv file, data transformed with pivot and expressions, and excel data file created as an output of ETL pipeline
+- Data Visualization and Dynamic Dashboard prepared in Tableau Desktop
+- Performed Statistical Data analysis using Microsoft Excel
